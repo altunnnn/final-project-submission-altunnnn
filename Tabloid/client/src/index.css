@@ -1,0 +1,66 @@
+main {
+  margin: 2em;
+}
+.app-spinner {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -16px;
+  margin-left: -16px;
+}
+ 
+p {
+    line-height: 2rem;
+}
+
+.post p {
+    white-space: pre-wrap;
+}
+
+.loginform{
+  display: block;
+  background-color: #e4e4e4;
+  padding: 30px 15px 20px 15px;
+  align-content: center;
+  border-radius: 25px;
+  box-shadow: 2px 2px rgb(187, 186, 186);
+}
+
+.form{
+margin-left: 10px;
+}
+
+.loginbutton{
+  width: 100px;
+  text-align: center;
+  background-color: #db534b;
+}
+
+.bg-light {
+  background-color: #6c767d!important;
+}
+.navbar-light .navbar-nav .nav-link
+{
+  color: white;
+}
+
+.btn-secondary{
+  background-color: white;
+  color: black;
+  outline: black;
+}
+.btn-secondary:hover{
+  background-color: lightblue;
+  color: black;
+  outline: black;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link
+{
+  color: white;
+}
+
+.navbar-light .navbar-brand
+{
+  color: white;
+}
